@@ -5,6 +5,7 @@ import (
 )
 
 func main() {
+	//fmt.Println(file.Strand(10))
 	//file.Write("dd", []byte("555\n"))
 	//fmt.Println("ok")
 }
